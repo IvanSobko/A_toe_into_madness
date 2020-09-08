@@ -2,6 +2,8 @@
 Repo for Computer Vision course, KPI, IASA
 Lab 1 "A toe into madness"
 
+Note: to exit or stop recording press ESC.
+
 Main features: 
   - record video from webcam
   - save it to file
